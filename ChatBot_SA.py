@@ -9,7 +9,7 @@ import speech_recognition as sr
 
 r = sr.Recognizer()
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # def csv_tool(filename : str):
 #     df = pd.read_csv(filename)

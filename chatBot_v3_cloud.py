@@ -9,7 +9,7 @@ import os
 
 # r = sr.Recognizer()
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # def csv_tool(filename : str):
 #     df = pd.read_csv(filename)

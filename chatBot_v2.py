@@ -9,8 +9,8 @@ import os
 import speech_recognition as sr 
 
 r = sr.Recognizer()
-#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
-os.environ["OPENAI_API_KEY"] = "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"
+
+os.environ["OPENAI_API_KEY"] = ""
 st.title('inquire.ai')
 
 prompt = st.text_input('Plug in your promt here')

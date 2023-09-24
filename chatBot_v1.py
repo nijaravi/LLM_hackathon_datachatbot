@@ -13,8 +13,8 @@ import json
 # import speech_recognition as sr 
 
 #r = sr.Recognizer()
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["SERPAPI_API_KEY"] = "a80fe57fb021bce936148ae4dfe6e075a43d26c05f258efaca487b5bdbed76e4"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["SERPAPI_API_KEY"] = ""
 st.title('inquire.ai')
 
 llm = OpenAI(temperature=0, model_name="text-davinci-002")
