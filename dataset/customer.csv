@@ -1,0 +1,101 @@
+customer_id,name,region,created_date,status,gender,marital_status,age_bracket
+1,John Doe,United Arab Emirates,2021-01-10,Active,Male,Married,25-34
+2,Jane Smith,United Arab Emirates,2020-12-05,Active,Female,Single,35-44
+3,Michael Johnson,Pakistan,2021-02-20,Active,Male,Married,45-54
+4,Emily Brown,United Arab Emirates,2021-03-15,Active,Female,Single,18-24
+5,David Wilson,Egypt,2021-05-01,Active,Male,Married,55-64
+6,James Lee,United Arab Emirates,2020-11-20,Active,Male,Single,18-24
+7,Sarah Davis,Pakistan,2021-03-08,Active,Female,Married,35-44
+8,Mohammed Ali,United Arab Emirates,2021-06-02,Active,Male,Married,45-54
+9,Emma Thompson,United Arab Emirates,2020-10-15,Active,Female,Single,25-34
+10,Joseph Clark,Egypt,2021-01-25,Active,Male,Married,55-64
+11,Sophia Garcia,United Arab Emirates,2021-02-10,Active,Female,Single,18-24
+12,Adam Hall,India,2020-09-05,Active,Male,Married,35-44
+13,Ava Lewis,Pakistan,2021-04-18,Active,Female,Single,45-54
+14,Alexander Wright,Pakistan,2021-06-20,Active,Male,Married,25-34
+15,Olivia Turner,United Arab Emirates,2020-12-15,Active,Female,Single,55-64
+16,William Hill,United Arab Emirates,2021-02-05,Active,Male,Married,35-44
+17,Sophie Moore,India,2021-03-28,Active,Female,Married,45-54
+18,Liam Adams,Pakistan,2020-07-10,Active,Male,Single,18-24
+19,Isabella Brooks,United Arab Emirates,2021-01-12,Active,Female,Married,55-64
+20,Noah Campbell,Egypt,2020-08-20,Active,Male,Single,25-34
+21,Emily Perez,United Arab Emirates,2021-05-08,Active,Female,Married,35-44
+22,Daniel Rivera,India,2021-06-25,Active,Male,Single,45-54
+23,Mia Mitchell,Pakistan,2020-11-05,Active,Female,Married,18-24
+24,Matthew Scott,Bangladesh,2021-02-02,Active,Male,Single,55-64
+25,Sophia Diaz,Egypt,2020-09-15,Active,Female,Married,25-34
+26,Elijah Clark,United Arab Emirates,2021-03-12,Active,Male,Single,35-44
+27,Charlotte Ward,India,2020-10-08,Active,Female,Married,45-54
+28,James Howard,United Arab Emirates,2021-04-22,Active,Male,Single,18-24
+29,Amelia Cox,Bangladesh,2021-07-01,Active,Female,Married,55-64
+30,Benjamin Bailey,United Arab Emirates,2020-12-10,Active,Male,Single,25-34
+31,Harper Foster,United Arab Emirates,2021-01-30,Active,Female,Married,35-44
+32,Owen Richardson,India,2020-08-25,Active,Male,Single,45-54
+33,Elizabeth Murphy,Pakistan,2021-02-18,Active,Female,Married,18-24
+34,Aiden Anderson,Bangladesh,2021-04-10,Active,Male,Single,55-64
+35,Chloe Gray,Egypt,2020-09-05,Active,Female,Married,25-34
+36,Sebastian Torres,United Arab Emirates,2021-05-28,Active,Male,Single,35-44
+37,Ella Price,India,2020-11-20,Active,Female,Married,45-54
+38,Lucas Powell,Pakistan,2021-07-15,Active,Male,Single,18-24
+39,Avery Cook,Bangladesh,2021-02-12,Active,Female,Married,55-64
+40,Aubrey Ramirez,Egypt,2020-10-01,Active,Male,Single,25-34
+41,Lily Morgan,United Arab Emirates,2021-01-15,Active,Female,Married,35-44
+42,Gabriel Rogers,India,2020-07-10,Active,Male,Single,45-54
+43,Zoey Reed,Pakistan,2021-04-18,Active,Female,Married,18-24
+44,Ethan Parker,Bangladesh,2021-06-20,Active,Male,Single,55-64
+45,Mila Cooper,Egypt,2020-12-15,Active,Female,Married,25-34
+46,Lincoln Hughes,United Arab Emirates,2021-02-10,Active,Male,Single,35-44
+47,Hannah Foster,India,2020-09-05,Active,Female,Married,45-54
+48,Daniel Sanchez,Pakistan,2021-03-28,Active,Male,Single,18-24
+49,Victoria Brooks,Pakistan,2021-01-12,Active,Female,Married,55-64
+50,Samuel Peterson,Egypt,2020-08-20,Active,Male,Single,25-34
+51,Scarlett Coleman,United Arab Emirates,2021-05-08,Active,Female,Married,35-44
+52,Xavier Rivera,India,2021-06-25,Active,Male,Single,45-54
+53,Naomi Henderson,Pakistan,2020-11-05,Active,Female,Married,18-24
+54,Henry Ross,Pakistan,2021-02-02,Active,Male,Single,55-64
+55,Ellie Simmons,Egypt,2020-09-15,Active,Female,Married,25-34
+56,Alexander Richardson,United Arab Emirates,2021-03-12,Active,Male,Single,35-44
+57,Zoe Turner,India,2020-10-08,Active,Female,Married,45-54
+58,Joseph Coleman,Pakistan,2021-04-22,Active,Male,Single,18-24
+59,Savannah Powell,Bangladesh,2021-07-20,Active,Female,Married,55-64
+60,Christopher Jenkins,Egypt,2020-12-15,Active,Male,Single,25-34
+61,Audrey Cox,United Arab Emirates,2021-01-30,Active,Female,Married,35-44
+62,Leo Reed,India,2020-08-25,Active,Male,Single,45-54
+63,Eva Peterson,Pakistan,2021-02-18,Active,Female,Married,18-24
+64,Landon Simmons,India,2021-04-10,Active,Male,Single,55-64
+65,Stella Foster,Egypt,2020-09-05,Active,Female,Married,25-34
+66,Nathan Powell,United Arab Emirates,2021-05-28,Active,Male,Single,35-44
+67,Lucy Price,India,2020-11-20,Active,Female,Married,45-54
+68,Jonathan Bell,Pakistan,2021-07-25,Active,Male,Single,18-24
+69,Maya Turner,India,2021-02-12,Active,Female,Married,55-64
+70,David Mitchell,Pakistan,2020-10-01,Active,Male,Single,25-34
+71,Penelope Scott,United Arab Emirates,2021-01-15,Active,Female,Married,35-44
+72,Eli Rivera,India,2020-07-10,Active,Male,Single,45-54
+73,Ariana Murphy,Pakistan,2021-04-18,Active,Female,Married,18-24
+74,Christopher Adams,India,2021-06-20,Active,Male,Single,55-64
+75,Madison Martinez,Pakistan,2020-12-15,Active,Female,Married,25-34
+76,Jack Bailey,United Arab Emirates,2021-02-10,Active,Male,Single,35-44
+77,Ruby Howard,India,2020-09-05,Active,Female,Married,45-54
+78,Julian Foster,Pakistan,2021-03-28,Active,Male,Single,18-24
+79,Evelyn Brooks,Bangladesh,2021-01-12,Active,Female,Married,55-64
+80,Luke Campbell,India,2020-08-20,Active,Male,Single,25-34
+81,Alice Perez,United Arab Emirates,2021-05-08,Active,Female,Married,35-44
+82,Jackson Rivera,India,2021-06-25,Active,Male,Single,45-54
+83,Lillian Mitchell,Pakistan,2020-11-05,Active,Female,Married,18-24
+84,Gabriel Scott,Bangladesh,2021-02-02,Active,Male,Single,55-64
+85,Grace Diaz,Pakistan,2020-09-15,Active,Female,Married,25-34
+86,Joseph Clark,United Arab Emirates,2021-03-12,Active,Male,Single,35-44
+87,Avery Ward,India,2020-10-08,Active,Female,Married,45-54
+88,Lucas Howard,Pakistan,2021-04-22,Active,Male,Single,18-24
+89,Amelia Cox,Bangladesh,2021-07-20,Active,Female,Married,55-64
+90,Benjamin Bailey,India,2020-12-10,Active,Male,Single,25-34
+91,Harper Foster,United Arab Emirates,2021-01-30,Active,Female,Married,35-44
+92,Owen Richardson,India,2020-08-25,Active,Male,Single,45-54
+93,Elizabeth Murphy,Pakistan,2021-02-18,Active,Female,Married,18-24
+94,Aiden Anderson,Bangladesh,2021-04-10,Active,Male,Single,55-64
+95,Chloe Gray,Pakistan,2020-09-05,Active,Female,Married,25-34
+96,Sebastian Torres,United Arab Emirates,2021-05-28,Active,Male,Single,35-44
+97,Ella Price,India,2020-11-20,Active,Female,Married,45-54
+98,Lucas Powell,Pakistan,2021-07-15,Active,Male,Single,18-24
+99,Avery Cook,Bangladesh,2021-02-12,Active,Female,Married,55-64
+100,Aubrey Ramirez,Egypt,2020-10-01,Active,Male,Single,25-34

@@ -1,0 +1,11 @@
+TransactionDate,Merchant,Amount,Description
+2023-06-10,Amazon,78.50,Online purchase - electronics
+2023-06-09,Starbucks,5.25,Coffee and snack
+2023-06-08,Gas Station,45.60,Fuel purchase
+2023-06-07,Grocery Store,82.30,Groceries
+2023-06-06,Restaurant,65.75,Dinner with friends
+2023-06-05,Clothing Store,120.00,New outfit
+2023-06-04,Online retailer,49.99,Home decor purchase
+2023-06-03,Movie Theater,18.50,Movie ticket
+2023-06-02,Gym,30.00,Monthly membership fee
+2023-06-01,Airline,350.00,Flight booking

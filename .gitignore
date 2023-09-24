@@ -1,0 +1,4 @@
+env/
+metastore_db/
+spark-warehouse/
+*.crc

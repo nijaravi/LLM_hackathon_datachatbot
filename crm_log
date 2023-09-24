@@ -1,0 +1,21 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8080
+  Network URL: http://192.168.193.48:8080
+
+  For better performance, install the Watchdog module:
+
+  $ xcode-select --install
+  $ pip install watchdog
+            
+2023-07-05 08:02:31.121 Uncaught app exception
+Traceback (most recent call last):
+  File "/Users/nijanthan/crayothon/iter1/env/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 552, in _run_script
+    exec(code, module.__dict__)
+  File "/Users/nijanthan/crayothon/iter1/ChatBot_CRM.py", line 175, in <module>
+    write_answer(decoded_response)
+  File "/Users/nijanthan/crayothon/iter1/ChatBot_CRM.py", line 121, in write_answer
+    data = response_dict["line"]
+           ~~~~~~~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
